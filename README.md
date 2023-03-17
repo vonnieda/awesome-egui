@@ -7,7 +7,7 @@ If you want to contribute, please submit a PR for README.md. An easy way is to c
 If you'd like to take this over, please [get in touch](https://github.com/vonnieda/awesome-egui/issues).
 
 ## Table of contents
-- [Awesome EGUI](#awesome-egui)
+- [Awesome egui](#awesome-egui)
   - [Widgets](#widgets)
   - [Questions](#questions)
   - [Questions Answered](#questions-answered)
