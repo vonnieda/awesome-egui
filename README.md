@@ -1,4 +1,4 @@
-# Awesome EGUI
+# Awesome egui
 
 A curated list of [egui](https://github.com/emilk/egui) code and resources.
 
