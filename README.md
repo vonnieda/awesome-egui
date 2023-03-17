@@ -2,25 +2,31 @@
 
 A curated list of [egui](https://github.com/emilk/egui) code and resources.
 
-If you want to contribute, please submit a PR for README.md. An easy way is to click on README.me, then click the little pen icon in the upper right. [Or just click here](https://github.com/vonnieda/awesome-egui/edit/main/README.md)
+**This is a work in progress!** If you want to contribute, please submit a PR for README.md. An easy way is to click on README.me, then click the little pen icon in the upper right. [Or just click here](https://github.com/vonnieda/awesome-egui/edit/main/README.md)
 
 If you'd like to take this over, please [get in touch](https://github.com/vonnieda/awesome-egui/issues).
 
 ## Table of contents
 - [Awesome egui](#awesome-egui)
+  - [See Also](#see-also)
   - [Widgets](#widgets)
+  - [Themes](#themes)
   - [Questions](#questions)
   - [Questions Answered](#questions-answered)
   - [Unsorted](#unsorted)
   - [License](#license)
+
+## See Also
+- [Third Party egui libraries](https://github.com/emilk/egui/issues/1942)
+- [egui Showcase Gallery](https://github.com/emilk/egui/issues/996) — Showcase gallery: share your egui screenshots here!
 
 ## Widgets
 - [GitHub - xTibor/egui_extras_xt](https://github.com/xTibor/egui_extras_xt)
     - Cool widgets posted in screenshots gallery, but no docs or info.
 - [GitHub - ryo33/egui_cable: Generic and extensible egui widgets to create analog synthesizer-like UI with data-oriented API](https://github.com/ryo33/egui_cable)
 
-## Questions
-- What is the best practice for composing widgets into components?
+## Themes
+- [GitHub - catppuccin/egui: 📁 Soothing pastel theme for egui](https://github.com/catppuccin/egui)
 
 ## Questions Answered
 - [How to insert an image inside a rect?](https://github.com/emilk/egui/discussions/2705)
@@ -36,7 +42,6 @@ If you'd like to take this over, please [get in touch](https://github.com/vonnie
 -  toggle global light and dark mode? #148  https://github.com/emilk/egui/discussions/148
 
 ## Unsorted
-- [egui Showcase Gallery](https://github.com/emilk/egui/issues/996) — Showcase gallery: share your egui screenshots here!
 - https://github.com/emilk/egui/discussions?discussions_q=is%3Aopen+is%3Aanswered&page=3
 -  [Track Awesome Rust (rust-unofficial/awesome-rust) Updates Daily - Track Awesome List](https://www.trackawesomelist.com/rust-unofficial/awesome-rust/)
 -  [Production - Rust Programming Language](https://www.rust-lang.org/production)
@@ -59,9 +64,6 @@ If you'd like to take this over, please [get in touch](https://github.com/vonnie
     - Lots of color in the UI
 - [GitHub - numfin/pwd-manager](https://github.com/numfin/pwd-manager)
     - A simple password implemented as an experiment in learning egui. Found on the Showcase.
-- [GitHub - catppuccin/egui: 📁 Soothing pastel theme for egui](https://github.com/catppuccin/egui)
-    - Awesome looking themes, and looks easy to install.
-    - And just amazingly cute artwork.
 - [GitHub - setzer22/blackjack: A procedural, node-based modelling tool, made in rust](https://github.com/setzer22/blackjack)
     - Very complex and in depth UI. Worth studying.
 - [GitHub - deadliner-app/Deadliner: Deadliner helps you keep track of the time left for your deadline by dynamically updating the wallpaper of your desktop with the time left.](https://github.com/deadliner-app/Deadliner)
