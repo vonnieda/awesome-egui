@@ -8,7 +8,6 @@ If you'd like to take this over, please [get in touch](https://github.com/vonnie
 
 ## Table of contents
 - [Awesome EGUI](#awesome-egui)
-  - [Table of contents](#table-of-contents)
   - [Widgets](#widgets)
   - [Questions](#questions)
   - [Questions Answered](#questions-answered)
