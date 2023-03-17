@@ -1,6 +1,6 @@
 # Awesome EGUI
 
-A curated list of egui code and resources.
+A curated list of [egui](https://github.com/emilk/egui) code and resources.
 
 If you want to contribute, please submit a PR for README.md. An easy way is to click on README.me, then click the little pen icon in the upper right. [Or just click here](https://github.com/vonnieda/awesome-egui/edit/main/README.md)
 
