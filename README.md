@@ -70,6 +70,15 @@ If you'd like to take this over, please [get in touch](https://github.com/vonnie
     - Large fonts and nice color on the UI
 - [GitHub - a-liashenko/TinyPomodoro: Easy, tiny, and portable pomodoro timer](https://github.com/a-liashenko/TinyPomodoro)
 
+
+## Security Tools
+- [GitHub - bad-antics/n01d-forge](https://github.com/bad-antics/n01d-forge) - Secure cross-platform image burner with encryption
+    - Native Rust/egui GUI
+    - LUKS and VeraCrypt encryption
+    - Dark cyberpunk theme
+- [GitHub - bad-antics/n01d-machine](https://github.com/bad-antics/n01d-machine) - Secure VM manager
+    - Sandboxing, Tor routing, VPN integration
+    - Network isolation for security research
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
