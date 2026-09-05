@@ -69,6 +69,8 @@ If you'd like to take this over, please [get in touch](https://github.com/vonnie
 - [GitHub - deadliner-app/Deadliner: Deadliner helps you keep track of the time left for your deadline by dynamically updating the wallpaper of your desktop with the time left.](https://github.com/deadliner-app/Deadliner)
     - Large fonts and nice color on the UI
 - [GitHub - a-liashenko/TinyPomodoro: Easy, tiny, and portable pomodoro timer](https://github.com/a-liashenko/TinyPomodoro)
+- [GitHub - nujufas/jsonquery_gui: A native desktop GUI for browsing and querying large JSON files with jq, JSONPath, JMESPath, and JSON Pointer](https://github.com/nujufas/jsonquery_gui)
+    - Streamed/cancellable queries, exact big-integer round-tripping, virtualized tree view
 
 
 ## Security Tools
