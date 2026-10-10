@@ -71,6 +71,8 @@ If you'd like to take this over, please [get in touch](https://github.com/vonnie
 - [GitHub - a-liashenko/TinyPomodoro: Easy, tiny, and portable pomodoro timer](https://github.com/a-liashenko/TinyPomodoro)
 - [GitHub - nujufas/jsonquery_gui: A native desktop GUI for browsing and querying large JSON files with jq, JSONPath, JMESPath, and JSON Pointer](https://github.com/nujufas/jsonquery_gui)
     - Streamed/cancellable queries, exact big-integer round-tripping, virtualized tree view
+- [LeanFPS](https://github.com/Jamailar/leanfps) - Windows game optimizer built with Rust and egui/eframe
+    - [Website](https://leanfps.com/); ETW FPS measurements, session history, and individually reversible system tweaks
 
 
 ## Security Tools
