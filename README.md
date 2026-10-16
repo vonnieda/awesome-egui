@@ -1,5 +1,11 @@
 # Awesome egui
 
+# Maintainer's Note:
+
+I am not currently using egui and I don't feel comfortable maintaining this repo. I'm archiving it. Please get in touch if you would like to take it over: jason@vonnieda.org
+
+# Original README
+
 A curated list of [egui](https://github.com/emilk/egui) code and resources.
 
 **This is a work in progress!** If you want to contribute, please submit a PR for README.md. An easy way is to click on README.me, then click the little pen icon in the upper right. [Or just click here](https://github.com/vonnieda/awesome-egui/edit/main/README.md)
