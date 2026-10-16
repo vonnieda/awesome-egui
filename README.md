@@ -71,6 +71,9 @@ If you'd like to take this over, please [get in touch](https://github.com/vonnie
 - [GitHub - a-liashenko/TinyPomodoro: Easy, tiny, and portable pomodoro timer](https://github.com/a-liashenko/TinyPomodoro)
 - [GitHub - nujufas/jsonquery_gui: A native desktop GUI for browsing and querying large JSON files with jq, JSONPath, JMESPath, and JSON Pointer](https://github.com/nujufas/jsonquery_gui)
     - Streamed/cancellable queries, exact big-integer round-tripping, virtualized tree view
+- [GitHub - maziluiosif/oxi: Native, local-first coding-agent desktop app](https://github.com/maziluiosif/oxi)
+    - Full IDE-style egui app: multi-tab code editor with tree-sitter highlighting and minimap, Git panel, embedded terminal, streaming chat transcript
+    - Worth studying for large-text performance: virtualized transcript, incremental per-paragraph galley layout
 
 
 ## Security Tools
