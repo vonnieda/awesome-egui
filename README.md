@@ -77,6 +77,9 @@ If you'd like to take this over, please [get in touch](https://github.com/vonnie
 - [GitHub - a-liashenko/TinyPomodoro: Easy, tiny, and portable pomodoro timer](https://github.com/a-liashenko/TinyPomodoro)
 - [GitHub - nujufas/jsonquery_gui: A native desktop GUI for browsing and querying large JSON files with jq, JSONPath, JMESPath, and JSON Pointer](https://github.com/nujufas/jsonquery_gui)
     - Streamed/cancellable queries, exact big-integer round-tripping, virtualized tree view
+- [GitHub - Dissimilis/FlashTester: Tests USB sticks, SD cards and disks for fake capacity, data loss and speed](https://github.com/Dissimilis/FlashTester)
+    - Live block map and an egui_plot speed graph while a drive is being tested
+    - eframe on Windows; on Linux its own X11 host draws the egui meshes on the CPU, so one static musl binary runs without GL
 - [GitHub - maziluiosif/oxi: Native, local-first coding-agent desktop app](https://github.com/maziluiosif/oxi)
     - Full IDE-style egui app: multi-tab code editor with tree-sitter highlighting and minimap, Git panel, embedded terminal, streaming chat transcript
     - Worth studying for large-text performance: virtualized transcript, incremental per-paragraph galley layout
